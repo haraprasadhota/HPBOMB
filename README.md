@@ -4,14 +4,14 @@
 
    pkg install python3
 
-   git clone https://github.com/suresh5545/SBomb
+   git clone https://github.com/haraprasadhota/HPBOMB
 
-   cd SBomb
+   cd HPBOMB.py
    
    pip3 install -r requirements.txt
 
-   python3 SBomb.py
+   python3 HPBOMB.py
 
-   again python3 SBomb.py 
+   again python3 HPBOMB.py 
 
 ** now use SBomb **
