@@ -3,7 +3,7 @@ Hello hay there
 
 # <p align="center">HPBOMB
 <p align="center">
-  <img src="https://github.com/haraprasadhota/ph/blob/master/hp78_1.png">
+  <img src="https://github.com/haraprasadhota/ph/blob/master/HPBOMB1.png">
 </p>
 <p align="center">Customize Your Termux
 <p align="center">
