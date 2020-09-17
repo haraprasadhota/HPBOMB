@@ -8,7 +8,7 @@ Hello hay there
 <p align="center">Customize Your Termux
 <p align="center">
 <a href="https://github.com/haraprasadhota"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red" ></a>
- <a href="https://github.com/haraprasadhota/Termux-Megapackage"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.0.0&x2=0" ></a>
+ <a href="https://github.com/haraprasadhota"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.0.0&x2=0" ></a>
 <a href="https://github.com/haraprasadhota"><img title="GitHub version" src="https://img.shields.io/github/license/haraprasadhota/HPBOMB?color=Brightgree" ></a>
  <a href="https://youtube.com/King hacker"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-KING HACKER-green"/></a>
  <a href="https://github.com/haraprasadhota"><img title="Stars" src="https://img.shields.io/github/stars/haraprasadhota/HPBOMB?style=social" ></a>
@@ -19,19 +19,14 @@ Hello hay there
 ###### <p align="center"> *You can check [youtube](https://www.youtube.com/channel/UCQLD2PaQjy2iL8EgJnVFn9A)💝*
 ---
 ### What is HPBOMB??
-HPBOMB or Termux will Help to Customise Your Termux in such a way that you will Enjoy using Termux it will give you a morden look and we also have add a feature of password,so now you can also set Password on your Termux and protect it so no one can login in your termux in absence of you.
-one more feature that we have added is that you can change dollar sign and put anything you want in that place.
-Hope you guys like this Project,then dont forget to give it a like.
+HPBOMB is a platform where you can able to send a lot of massage to your victim which is your enemy 🤣🤣🤣 but please don't miss use it 🙃🙏🙏🙏🙏
 
 * `Change Log` 
 ```
-  • New Banner Fonts Added
-  • New Theme Feature Added
-  • Multiple Curser Choise 
-  • Lock Screen Bugs Fixed
-  • Access Granted Sound
-  • New Fonts In Termux Added
-  • Password Protection
+  • issue fixed for Kali linux
+  • most colourfull
+  • more than 500 attacks
+  • 15 call per at a time
  ```
  ### Installation HPBOMB
   
