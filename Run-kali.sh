@@ -1,5 +1,7 @@
 #!/bin/bash
 cat "sour.txt" >> /etc/apt/sources.list
+apt update -y
+apt upgrade -y
 apt install python -y
 apt install python3 -y
 apt install python3-pip -y
