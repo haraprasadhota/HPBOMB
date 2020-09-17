@@ -6,7 +6,7 @@
 
    git clone https://github.com/haraprasadhota/HPBOMB
 
-   cd HPBOMB.py
+   cd HPBOMB
    
    pip3 install -r requirements.txt
 
@@ -14,4 +14,4 @@
 
    again python3 HPBOMB.py 
 
-** now use SBomb **
+** now use HPBOMB **
