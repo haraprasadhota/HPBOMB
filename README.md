@@ -78,20 +78,11 @@ $ bash Run-kali.sh
 ![Screenshot_20200901_151852](https://github.com/haraprasadhota/ph/blob/master/HPBOMB.png)
 ![Screenshot_20200901_152348](https://github.com/haraprasadhota/ph/blob/master/HPBOMB2.png)
 ![Screenshot_20200901_152938](https://github.com/haraprasadhota/ph/blob/master/HPBOMB3.png)
-![Screenshot_20200901_153649](https://github.com/haraprasadhota/ph/bolb/master/HPBOMB4.png)
-![Screenshot_20200914_154729](https://github.com/haraprasadhota/ph/blob/master/Screenshot-removebg-preview.png)
+
 
 ***
 
-### To Remove HPBOMB :- 
 
-* type below command from anywhere & choose the option you want to remove
-```
-$ uninstall
-
-
-$remove-HPBOMB
-```
 ### Developed by
 
 Developer / Author: [Hara]() / [King Hacker](https://github.com/haraprasadhota/)
