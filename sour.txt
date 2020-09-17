@@ -1,0 +1,5 @@
+deb http://ftp.debian.org/debian buster main
+deb http://ftp.debian.org/debian buster-updates main
+deb http://http.kali.org/kali kali-rolling main non-free contrib
+deb-src http://http.kali.org/kali kali-rolling main non-free contrib
+deb-src http://http.kali.org/kali kali-rolling main non-free contrib
