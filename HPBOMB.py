@@ -288,7 +288,7 @@ def checkinternet():
         res = True
     if res:
         print("\n\n\tIt seems That Your Internet Speed is Slow or You Are Using Proxies...")
-        print('\t\STBomb Will Stop Now...\n\n')
+        print('\t\HPBOMB Will Stop Now...\n\n')
         banner()
         exit()
 
@@ -507,7 +507,7 @@ if ver != verl:
     print('\tStarting Update...')
     update()
 print("Your Version is Up-To-Date")
-print('\n\n\t\t\tStarting SBomb...\n\n')
+print('\n\n\t\t\tStarting HPBOMB...\n\n')
 try:
     noti = urllib.request.urlopen(
         "https://raw.githubusercontent.com/TheSpeedX/TBomb/master/.notify").read().decode('utf-8')
