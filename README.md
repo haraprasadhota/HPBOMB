@@ -46,26 +46,39 @@ $ ls
 
 $ chmod +x *
 
-$ bash HPBOMB.sh
+$ bash Run.sh 
+```
+
+ ### Installation HPBOMB in kali
+  
+* `Commands` for kali
+```
+$ termux-setup-storage
+  
+$ apt update -y && apt upgrade -y && apt install git -y
+
+$ git clone https://github.com/haraprasadhota/HPBOMB
+
+$ ls
+
+$ cd HPBOMB
+
+$ ls
+
+$ chmod +x *
+
+$ bash Run-kali.sh
 ```
 
 ### Screenshots
 
-#### Before Installing HPBOMB Termux Looks:-
+#### Installing _HPBOMB_ Termux Looks Home Page:-
 
-![Screenshot_20200808_161602](https://user-images.githubusercontent.com/64035221/89708658-86510580-d996-11ea-9739-aae202ce3ee2.jpg)
-
-#### After Installing _HPBOMB_ Termux Looks Login Screen:-
-
-![Screenshot_20200914_154711](https://user-images.githubusercontent.com/64035221/93075754-e298fa80-f6a3-11ea-979d-97ff94c2ddf5.jpg)
-
-#### After Installing _HPBOMB_ Termux Looks Home Page:-
-
-![Screenshot_1](https://github.com/haraprasadhota/ph/blob/master/Screenshot_1.png)
-![Screenshot_20200901_151852](https://github.com/haraprasadhota/ph/blob/master/Screenshot_2.png)
-![Screenshot_20200901_152348](https://github.com/haraprasadhota/ph/blob/master/Screenshot_3.png)
-![Screenshot_20200901_152938](https://github.com/haraprasadhota/ph/blob/master/Screenshot_4.png)
-![Screenshot_20200901_153649](https://github.com/haraprasadhota/HPBOMB/blob/master/properties/Screenshot_5.png)
+![Screenshot_1](https://github.com/haraprasadhota/ph/blob/master/HPBOMB1.png)
+![Screenshot_20200901_151852](https://github.com/haraprasadhota/ph/blob/master/HPBOMB1.png)
+![Screenshot_20200901_152348](https://github.com/haraprasadhota/ph/blob/master/HPBOMB2.png)
+![Screenshot_20200901_152938](https://github.com/haraprasadhota/ph/blob/master/HPBOMB3.png)
+![Screenshot_20200901_153649](https://github.com/haraprasadhota/ph/bolb/master/HPBOMB4.png)
 ![Screenshot_20200914_154729](https://github.com/haraprasadhota/ph/blob/master/Screenshot-removebg-preview.png)
 
 ***
