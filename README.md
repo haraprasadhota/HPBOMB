@@ -75,7 +75,7 @@ $ bash Run-kali.sh
 #### Installing _HPBOMB_ Termux Looks Home Page:-
 
 ![Screenshot_1](https://github.com/haraprasadhota/ph/blob/master/HPBOMB1.png)
-![Screenshot_20200901_151852](https://github.com/haraprasadhota/ph/blob/master/HPBOMB1.png)
+![Screenshot_20200901_151852](https://github.com/haraprasadhota/ph/blob/master/HPBOMB.png)
 ![Screenshot_20200901_152348](https://github.com/haraprasadhota/ph/blob/master/HPBOMB2.png)
 ![Screenshot_20200901_152938](https://github.com/haraprasadhota/ph/blob/master/HPBOMB3.png)
 ![Screenshot_20200901_153649](https://github.com/haraprasadhota/ph/bolb/master/HPBOMB4.png)
